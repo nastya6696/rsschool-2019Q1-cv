@@ -13,6 +13,8 @@
 > Highly motivated Software Test Automation Engineer with over **3.5** years of hands-on
 experience in Test Automation.
 
+> Have experience with and good knowledge in Java, Selenium WebDriver, JUnit, Cucumber, Хpath technologies
+
 > Team-player, able to meet deadlines, work closely with dev team, Product Management and Tech Operations
 
 ## Area of Expertise
@@ -61,5 +63,7 @@ experience in Test Automation.
 **Faculty/College:** Applied Mathematics and Computer Science
 
 **Degree (diploma):** Specialist
+
+**Specialty:** Informatics
 
 *******************************************************************************************************
