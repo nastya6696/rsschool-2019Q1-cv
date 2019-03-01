@@ -4,7 +4,7 @@
 ## Contacts
 
 **Email:** anastasia.piskunova6696@gmail.com
-**Skype:** name_surname
+**Skype:** anastasia0696
 **Linkedin:** [Anastasia Piskunova](http://linkedin.com/in/anastasia-piskunova)
 
 
