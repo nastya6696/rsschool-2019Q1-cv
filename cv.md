@@ -55,6 +55,7 @@ experience in Test Automation.
 
 **Automation QA Engineer, [US Belar IT Group]**
 
+*******************************************************************************************************
 
 ## Education
 
